@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Mehar ✨
 
-<!--
-**Mehar2912/Mehar2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+💻 Passionate about coding, mathematics, design, and creative tech projects.
 
-Here are some ideas to get you started:
+🚀 Currently Working On
+- Open source contributions
+- DSA & development skills
+- Creative web projects and UI ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+C • Python • Java • HTML • CSS • JavaScript  
+Git & GitHub • VS Code • Canva 
+
+🌱 Currently Learning
+- React
+- UI/UX Design
+- Open Source Workflows
+
+✨ Interests
+Math • Creative Coding • Digital Art • Space Aesthetics • Problem Solving
+
+📫 Reach Me
+- GitHub: https://github.com/Mehar2912
+- LinkedIn: www.linkedin.com/in/meharpreet-kaur-1620bb319
+
+Creating at the intersection of logic and creativity ✨
