@@ -1,7 +1,7 @@
 Hi, I'm Mehar ✨
 
 🎓 BTech CSE Student  
-💻 Passionate about coding, mathematics, design, and creative tech projects.
+Passionate about coding, mathematics, design, and creative tech projects.
 
 🚀 Currently Working On
 - Open source contributions
